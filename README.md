@@ -23,9 +23,3 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - CSS Grid
 - Tailwind CSS
 - Mobile-first workflow
-
-## Author
-
-- [Website](https://mishanep.com)
-- Frontend Mentor - [@michey85](https://www.frontendmentor.io/profile/michey85)
-- Twitter - [@pcgramota](https://www.twitter.com/pcgramota)
